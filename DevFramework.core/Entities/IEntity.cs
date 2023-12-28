@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DevFramework.Northwind.DataAccess
+namespace DevFramework.core.Entities
 {
-    public class Class1
+    public interface IEntity
     {
+
     }
 }
